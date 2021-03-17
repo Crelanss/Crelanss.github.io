@@ -6,7 +6,7 @@
   "license": "",
   "author": "",
   "engines": {
-    "node": " 7.6.3"
+    "node": " 6.11.1"
   },
   "scripts": {
     "build": "parcel build index.html",
