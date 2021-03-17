@@ -5,6 +5,9 @@
   "keywords": "",
   "license": "",
   "author": "",
+  "engines": {
+    "node": "6.11.1"
+  },
   "scripts": {
     "build": "parcel build home.html",
     "dev": "parcel home.html --open",
